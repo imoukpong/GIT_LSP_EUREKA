@@ -1,3 +1,7 @@
+/**
+*  Name: Imo Ukpong
+*/
+
 package org.howard.edu.lsp.assignment2;
 import java.io.BufferedReader;
 import java.io.FileReader;
